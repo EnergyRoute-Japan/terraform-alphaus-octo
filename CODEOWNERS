@@ -6,3 +6,4 @@
 .gitignore @EnergyRoute-Japan/Admins
 CODEOWNERS @EnergyRoute-Japan/Admins
 LICENSE @EnergyRoute-Japan/Admins
+.pre-commit-config.yaml @EnergyRoute-Japan/Admins
